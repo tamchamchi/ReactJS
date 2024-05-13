@@ -1,4 +1,10 @@
+import Lesson1 from "./components/Lesson1";
+
 const App = () => {
-  return <div>asdfasdfasdf</div>;
+  return (
+    <>
+      <Lesson1 />
+    </>
+  );
 };
 export default App;
